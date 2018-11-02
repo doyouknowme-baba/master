@@ -1,0 +1,3 @@
+[submodule "front-slave"]
+	path = front-slave
+	url = https://github.com/doyouknowme-baba/front-slave.git
